@@ -46,7 +46,7 @@
     }
 }
 
-@media (max-width: 1199px) and (min-width: 800px) {
+@media (max-width: 1199px) and (min-width: 900px) {
     .column {
         width: 33%; 
     }
